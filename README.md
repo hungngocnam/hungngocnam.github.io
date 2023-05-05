@@ -1,6 +1,6 @@
 # TKWEB
 
-## Bai 1
+## ex01
 - html
 ####
 - css
@@ -8,7 +8,7 @@
 - img ()
 
 
-## Bai 2
+## ex02
 - html
 ####
 - css
@@ -16,7 +16,7 @@
 - img
 
 
-## Bai 3
+## ex03
 - html
 ####
 - css
@@ -24,7 +24,7 @@
 - img
 
 
-## Bai 4
+## ex04
 - html
 ####
 - css
