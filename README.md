@@ -1,7 +1,7 @@
 # TKWEB
 
 ## Bai 1
-- html(https://hungngocnam.github.io/shop.html)
+- html
 ####
 - css
 ####
