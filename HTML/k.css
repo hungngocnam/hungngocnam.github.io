@@ -1,0 +1,180 @@
+  body{
+    background-color:white;
+    background: url(https://vietjack.com/mau-van-ban/images/hinh-nen-powerpoint-dep-chuyen-nghiep-8.PNG);
+  }
+
+  /* Global */
+  .container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+    /* display: flex; */
+  }
+
+  .container input{
+    padding: 6px 14px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+  .container button{
+    padding: 6px 14px;
+    margin: 8px 0;
+    background-color: orangered;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-weight: 700;
+  }
+  /* .container .box{
+    display: flex;
+  } */
+  .button_1{
+    width: 120px;
+    height: 36px;
+  }
+  
+  .dark{
+    background-color: rgb(50, 50, 50);
+    
+  }
+  /* Header */
+  header{
+    background:rgb(30, 221, 23);
+    color:rgb(36, 18, 18);
+    padding-top:30px;
+    min-height:70px;
+    border-bottom:rgb(14, 124, 78) 2px solid;
+  }
+
+  header a{
+    color:white;
+    text-decoration:none;
+    text-transform: uppercase;
+    font-size:16px;
+  }
+
+  header li{
+    float:left;
+    display:inline;
+    padding: 0 18px 0 18px;
+  }
+
+  header #branding{
+    float:left;
+  }
+
+  header #branding h1{
+    margin:10px;
+  }
+
+  header nav{
+    float:right;
+    margin-top:10px;
+  }
+
+  header .highlight, header .current a{
+    color:rgb(46, 26, 19);
+    font-weight:700;
+  }
+
+  header a:hover{
+    color:rgb(148, 19, 19);
+    font-weight:700;
+  } 
+  /* Showcase */
+  #showcase{
+    min-height:345px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLKSNssrgU3Qd-zp0QfZjUT6DdZ8k7ZMdHtA&usqp=CAU)no-repeat 50% 60%;
+    background-size: 100%;
+    text-align:center;
+    color:black;
+  }
+
+  #showcase h1{
+    margin-top:100px;
+    font-size:50px;
+    margin-bottom:8px;
+    color: rgb(153, 45, 26);
+  }
+
+  #showcase p{
+    font-size:20px;
+  }
+/* Newsletter */
+#newsletter{
+  background-color: rgb(40, 236, 40);
+}
+
+#newsletter h1{
+  width: 460px;
+  color: white;
+  float:left;
+}
+
+#newsletter form {
+  float:right;
+  padding: 10px 0;
+}
+
+#newsletter input[type="email"]{
+  width: 300px;
+}
+ /* Boxes */
+#boxes{
+  margin:20px 5px;
+  /* background-color: aqua; */
+}
+
+#boxes .box{
+  float:left;
+  text-align: center;
+  width:28%;
+  padding: 0 20px;
+}
+
+#boxes .box img{
+  width:170px;
+  height: 160px;
+}
+/* Sidebar */
+aside#sidebar{
+  padding: 10px 20px 0 20px;
+  margin: 10px 0;
+  color: white;
+  background-color:rgb(54, 53, 53);
+}
+
+#main .container{
+  display: flex;
+}
+.container .dark{
+  color: white;
+}
+aside#sidebar .quote input, aside#sidebar .quote textarea{
+  font-weight: 700;
+}
+
+/* Main-col */
+article#main-col{
+  padding: 10px 20px 0 20px;
+}
+/* Services */
+ul#services li{
+  background-color: rgb(167, 167, 167);
+  list-style: none;
+  padding: 10px ;
+  border: white 5px solid;
+  border-radius: 3px;
+}
+footer{
+  padding:20px;
+  margin-top:20px;
+  color:white;
+  background-color:rgb(61, 57, 56);
+  text-align: center;
+}
+.box-sach{
+  margin: 0 46%;
+  background-color: rgb(255, 0, 212);
+  border-radius: 3px;
+}
